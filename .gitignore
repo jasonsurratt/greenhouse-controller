@@ -1,3 +1,7 @@
+
+# This contains secrets that shouldn't be in git
+config.h
+
 # Prerequisites
 *.d
 

@@ -1,0 +1,15 @@
+/*
+ * This configuration file is specific to a greenhouse and shouldn't be committed.
+ * If you're adding a new setting here, please update config.h.in as well.
+ */
+
+#ifndef __CONFIG_H__
+#define __CONFIG_H__
+
+
+// Replace with your network credentials
+const char* const ssid = "my_wifi";
+const char* const password = "my_password";
+
+#endif
+
